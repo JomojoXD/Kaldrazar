@@ -1,0 +1,3 @@
+Optimized for 16:9 display
+
+Mac/Linux builds are untested (added upon request)

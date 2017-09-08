@@ -1,0 +1,21 @@
+Turn order:
+1. Draw a card, gain 1 max mana and refresh mana pool.
+2. Main phase, in which you can:
+ - Redraw a card
+ - Sacrifice up to one card
+ - Play your cards
+- Activate cards' abilities
+3. Combat phase, in which your units attack.
+4. End turn.
+
+When you end a turn, your cards automatically attack damaging either
+	the target ahead of them, or the enemy player
+	
+To play a card, click on it, then click one of the 5 spaces that make up
+	the front row of the blue half of the board to place the card there
+	
+Once per turn you may click on a card in your hand then click the "redraw"
+	button to replace it with a new card
+	
+In this build all cards are generated randomly on a cost curve with stats
+	randomly distributed from a stat total determined by the card's cost.
